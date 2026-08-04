@@ -1,0 +1,183 @@
+{
+    "format": "scripture burrito",
+    "projectName": "awwards",
+    "projectId": "neng1312fwdmj30iclv44r",
+    "meta": {
+        "version": "0.0.0",
+        "category": "Translation",
+        "generator": {
+            "softwareName": "Codex Editor",
+            "softwareVersion": "0.31.0",
+            "userName": "",
+            "userEmail": ""
+        },
+        "defaultLocale": "en",
+        "dateCreated": "Tue Aug 04 2026",
+        "normalization": "NFC",
+        "comments": [],
+        "requiredExtensions": {
+            "codexEditor": "0.31.0",
+            "frontierAuthentication": "0.9.0"
+        },
+        "validationCount": 1,
+        "validationCountAudio": 1,
+        "abbreviation": ""
+    },
+    "idAuthorities": {},
+    "identification": {},
+    "languages": [
+        {
+            "name": {
+                "en": "English"
+            },
+            "tag": "eng",
+            "refName": "English",
+            "projectStatus": "source"
+        },
+        {
+            "name": {
+                "en": "English"
+            },
+            "tag": "eng",
+            "refName": "English",
+            "projectStatus": "target"
+        }
+    ],
+    "type": {
+        "flavorType": {
+            "name": "default",
+            "flavor": {
+                "name": "default",
+                "usfmVersion": "3.0",
+                "translationType": "unknown",
+                "audience": "general",
+                "projectType": "unknown"
+            },
+            "currentScope": {
+                "GEN": [],
+                "EXO": [],
+                "LEV": [],
+                "NUM": [],
+                "DEU": [],
+                "JOS": [],
+                "JDG": [],
+                "RUT": [],
+                "1SA": [],
+                "2SA": [],
+                "1KI": [],
+                "2KI": [],
+                "1CH": [],
+                "2CH": [],
+                "EZR": [],
+                "NEH": [],
+                "EST": [],
+                "JOB": [],
+                "PSA": [],
+                "PRO": [],
+                "ECC": [],
+                "SNG": [],
+                "ISA": [],
+                "JER": [],
+                "LAM": [],
+                "EZK": [],
+                "DAN": [],
+                "HOS": [],
+                "JOL": [],
+                "AMO": [],
+                "OBA": [],
+                "JON": [],
+                "MIC": [],
+                "NAM": [],
+                "HAB": [],
+                "ZEP": [],
+                "HAG": [],
+                "ZEC": [],
+                "MAL": [],
+                "MAT": [],
+                "MRK": [],
+                "LUK": [],
+                "JHN": [],
+                "ACT": [],
+                "ROM": [],
+                "1CO": [],
+                "2CO": [],
+                "GAL": [],
+                "EPH": [],
+                "PHP": [],
+                "COL": [],
+                "1TH": [],
+                "2TH": [],
+                "1TI": [],
+                "2TI": [],
+                "TIT": [],
+                "PHM": [],
+                "HEB": [],
+                "JAS": [],
+                "1PE": [],
+                "2PE": [],
+                "1JN": [],
+                "2JN": [],
+                "3JN": [],
+                "JUD": [],
+                "REV": []
+            }
+        }
+    },
+    "confidential": false,
+    "agencies": [],
+    "targetAreas": [],
+    "localizedNames": {},
+    "ingredients": {},
+    "copyright": {
+        "shortStatements": []
+    },
+    "edits": [
+        {
+            "editMap": [
+                "meta",
+                "validationCount"
+            ],
+            "value": 1,
+            "timestamp": 1785814732382,
+            "type": "user-edit",
+            "author": "pradnish"
+        },
+        {
+            "editMap": [
+                "meta",
+                "validationCountAudio"
+            ],
+            "value": 1,
+            "timestamp": 1785814732382,
+            "type": "user-edit",
+            "author": "pradnish"
+        },
+        {
+            "editMap": [
+                "meta",
+                "abbreviation"
+            ],
+            "value": "",
+            "timestamp": 1785814732382,
+            "type": "user-edit",
+            "author": "pradnish"
+        },
+        {
+            "editMap": [
+                "chatSystemMessage"
+            ],
+            "value": "When translating from English to English (whether between dialects, registers, or time periods), maintain vigilant attention to lexicosemantic shifts in polysemy, connotation, and collocational restrictions, as words like \"quite\" (very vs. somewhat), \"table\" (postpone vs. propose), or \"presently\" (now vs. soon) carry divergent meanings across varieties. Preserve information structure by respecting topic-comment articulation, given-new ordering, and focus-marking devices (clefts, fronting, prosodic emphasis), as alterations disrupt discourse cohesion and pragmatic felicity. Register sensitivity is paramount: monitor formality levels through lexical density, Latinate vs. Germanic vocabulary choices, contraction usage, passive vs. active voice preference, and modal verb selection to ensure sociolinguistic appropriateness for audience and context. Attend to grammatical distinctions including aspect (progressive vs. simple forms), article usage patterns, preposition selection, verb complementation structures, and collective noun agreement (singular vs. plural), which vary systematically across British, American, and other English varieties. Respect idiomatic expressions, phrasal verb preferences, and metaphorical mappings that may not transfer across varieties, opting for functionally equivalent constructions rather than calques. Finally, ensure natural prosody and rhythm by considering sentence length variation, coordination vs. subordination preferences, and end-weight principles that govern authentic English discourse flow in the target variety.",
+            "timestamp": 1785814743175,
+            "type": "user-edit",
+            "author": "pradnish"
+        }
+    ],
+    "chatSystemMessage": "When translating from English to English (whether between dialects, registers, or time periods), maintain vigilant attention to lexicosemantic shifts in polysemy, connotation, and collocational restrictions, as words like \"quite\" (very vs. somewhat), \"table\" (postpone vs. propose), or \"presently\" (now vs. soon) carry divergent meanings across varieties. Preserve information structure by respecting topic-comment articulation, given-new ordering, and focus-marking devices (clefts, fronting, prosodic emphasis), as alterations disrupt discourse cohesion and pragmatic felicity. Register sensitivity is paramount: monitor formality levels through lexical density, Latinate vs. Germanic vocabulary choices, contraction usage, passive vs. active voice preference, and modal verb selection to ensure sociolinguistic appropriateness for audience and context. Attend to grammatical distinctions including aspect (progressive vs. simple forms), article usage patterns, preposition selection, verb complementation structures, and collective noun agreement (singular vs. plural), which vary systematically across British, American, and other English varieties. Respect idiomatic expressions, phrasal verb preferences, and metaphorical mappings that may not transfer across varieties, opting for functionally equivalent constructions rather than calques. Finally, ensure natural prosody and rhythm by considering sentence length variation, coordination vs. subordination preferences, and end-weight principles that govern authentic English discourse flow in the target variety.",
+    "users": [
+        {
+            "userName": "pradnish",
+            "codexVersion": "1.107.0",
+            "updatedAt": 1785814834991
+        }
+    ]
+}
