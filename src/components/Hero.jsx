@@ -173,7 +173,7 @@ const Hero = () => {
       </div>
 
       {/* Shadow heading behind the video frame */}
-      <h1 className="special-font hero-heading absolute bottom-5 right-5 text-obsidian">
+      <h1 className="special-font hero-heading absolute bottom-5 right-5 text-white">
         PR<b>A</b>D.
       </h1>
     </div>
